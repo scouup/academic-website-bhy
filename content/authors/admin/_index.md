@@ -3,15 +3,15 @@
 title: Hongyin Bao
 
 # Name pronunciation (optional)
-name_pronunciation: Hongyin Bao
+#name_pronunciation: Hongyin Bao
 
 # Full name (for SEO)
 first_name: Hongyin
 last_name: Bao
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+  #icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
