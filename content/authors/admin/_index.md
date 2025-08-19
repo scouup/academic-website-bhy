@@ -31,25 +31,25 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '12332494@mail.sustech.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://github.com/scouup
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Research Interests:
+  - Computational Fluid Dynamics 
+  - Aerodynamics and Aeroacoustics
+  - Flow and noise control 
 
 education:
   - area: PhD Artificial Intelligence
