@@ -24,14 +24,16 @@ role:  Master students
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Southern University of Science and Technolohy, Shenzhen, China
+  - name: |
+      Southern University of Science and Technology,
+      Shenzhen, China
   #  url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 12332494@mail.sustech.edu.cn
+    url: mailto:12332494@mail.sustech.edu.cn
     label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
