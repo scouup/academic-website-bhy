@@ -25,8 +25,7 @@ role:  Master students
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: |
-      Southern University of Science and Technology,
-      Shenzhen, China
+      Southern University of Science and Technology,<br>Shenzhen, China
   #  url: https://openai.com/
 
 # Social network links
