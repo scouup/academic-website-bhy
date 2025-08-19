@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Hongyin Bao
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hongyin Bao
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hongyin
+last_name: Bao
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role:  Master students
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
