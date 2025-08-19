@@ -24,14 +24,14 @@ role:  Master students
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Southern University of Science and Technolohy, Shenzhen, China
+  #  url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: '12332494@mail.sustech.edu.cn'
+    url: 12332494@mail.sustech.edu.cn
     label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
@@ -44,7 +44,7 @@ profiles:
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0002-9822-2498
 
 Research Interests:
   - Computational Fluid Dynamics 
