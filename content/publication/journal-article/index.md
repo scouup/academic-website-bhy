@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Numerical study on aerodynamic and aeroacoustic characteristics of sinusoidal wavy square cylinders"
 authors:
 - admin
 - Robert Ford
