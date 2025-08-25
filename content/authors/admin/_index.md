@@ -141,7 +141,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Basketball
         description: ''
         percent: 80
         icon: "custom/basketball"
