@@ -147,10 +147,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
+    percent: 100
+  - name: English
+    percent: 80
   # - name: Portuguese
   #   percent: 25
 
@@ -163,7 +163,7 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2022-12-01'
     awarder: Chinese Mechanics Society
-    icon: STAM
+    icon: "custom/STAM.jpeg"
     summary: |
       Awarded by the Chinese Mechanics Society to top students in engineering for strong academic performance.
   - title: Blockchain Fundamentals
