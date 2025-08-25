@@ -49,7 +49,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0002-9822-2498
 
-Research Interests:
+Interests:
   - Computational Fluid Dynamics 
   - Aerodynamics and Aeroacoustics
   - Flow and noise control 
