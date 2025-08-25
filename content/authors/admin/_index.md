@@ -154,15 +154,15 @@ languages:
   # - name: Portuguese
   #   percent: 25
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
+Awards.
+  # Add/remove as many awards below as you like.
+  # Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Xu Zhilun Mechanics Outstanding Student Award
+awards:
+  - title: Xu Zhilun Mechanics Outstanding Student Award
 #     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2022-12-01'
-#     awarder: Chinese Mechanics Society
+    date: '2022-12-01'
+    awarder: Chinese Mechanics Society
 #     # icon: "custom/STAM"
 #     summary: |
 #       Awarded by the Chinese Mechanics Society to top students in engineering for strong academic performance.
