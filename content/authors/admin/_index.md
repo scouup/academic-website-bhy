@@ -144,7 +144,7 @@ skills:
       - name: Photography
         description: ''
         percent: 80
-        icon: "researchgate.svg"
+        icon: "researchgate"
 
 languages:
   - name: Chinese
