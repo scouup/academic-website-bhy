@@ -163,7 +163,7 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2022-12-01'
     awarder: Chinese Mechanics Society
-    icon: "custom/STAM.jpeg"
+    icon: "custom/STAM"
     summary: |
       Awarded by the Chinese Mechanics Society to top students in engineering for strong academic performance.
   - title: Blockchain Fundamentals
