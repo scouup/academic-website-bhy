@@ -166,8 +166,11 @@ awards:
     # icon: "custom/STAM"
     # summary: |
     #   Awarded by the Chinese Mechanics Society to top students in engineering for strong academic performance.
+  - title: Provincial Outstanding Graduates
+    date: '2023-07-01'
+    awarder: Provincial education authorities
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hongyin Bao is a Master’s student in the Department of Mechanics and Aerospace Engineering at the Southern University of Science and Technology. His research focuses on bluff-body wakes and flow control using computational fluid dynamics (CFD). In particular, he studies polygonal cylinders with strong flow separation and explores spanwise-twisted structures as a passive method for flow and noise control. His work aims to better understand how these geometries affect vortex shedding, aerodynamic forces, and noise generation, and to evaluate their potential for improving flow stability and reducing flow-induced noise.
