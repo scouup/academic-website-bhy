@@ -8,11 +8,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-10-01T00:00:00Z"
+date: "2024-10-22T00:00:00Z"
 doi: "https://doi.org/10.1063/5.0232376"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-01T00:00:00Z"
+publishDate: "2024-10-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,9 +29,9 @@ abstract: This paper numerically investigates the influences of amplitude and wa
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
