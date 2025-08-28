@@ -1,7 +1,7 @@
 ---
 title: "Numerical study on aerodynamic and aeroacoustic characteristics of sinusoidal wavy square cylinders"
 authors:
-- Hongyin Bao
+- admin
 - Lian Gan
 - Yu Liu
 author_notes:
