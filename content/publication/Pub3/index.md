@@ -3,8 +3,12 @@ title: "On the optimal twist of a hexagonal cylinder"
 authors:
 - admin
 - Lian Gan
+- Peiran Jiang
+- Yicong Liu
 - Yu Liu
 author_notes:
+- "Equal contribution"
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
