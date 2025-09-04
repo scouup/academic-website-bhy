@@ -12,11 +12,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-10-22T00:00:00Z"
+date: "2025-10-22T00:00:00Z"
 doi: "https://doi.org/10.1063/5.0232376"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-22T00:00:00Z"
+publishDate: "2025-10-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,8 +24,8 @@ publishDate: "2024-10-22T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physics of Fluids* **36**(10)"
-publication_short: "Phys. Fluids"
+publication: "*Journal of Fluid Mechanics* **36**(10)"
+publication_short: "Journal of Fluid Mechanics (Under Review)"
 
 
 abstract: This paper numerically investigates the influences of amplitude and wavelength of sinusoidal wavy square cylinders on aerodynamic performance and noise reduction by large eddy simulation along with the Ffowcs Williams–Hawkings equation. The results show that the mean drag, lift fluctuation, and far-field noise of wavy cylinders are all reduced compared to the straight counterpart. The far-field noise of wavy cylinders varies monotonically with amplitude in a specific range but not with wavelength. The case with the largest amplitude demonstrates a significant tonal noise reduction of 47 dB/Hz, while a tonal noise reduction of 23 dB/Hz is observed for the case with the largest wavelength. To explore the mechanisms of noise reduction, the characteristics of a flow field are analyzed. It is found that wavy cylinders attenuate the transverse oscillation of a shear layer and produce more three-dimensional coherent structures in the wake. The wake region is significantly extended due to the delayed vortex shedding, and the mutual interaction between shear layers is remarkably weakened along the entire span. The spanwise coherence is attenuated in a similar way. These lead to the suppression of wall pressure fluctuations and turbulence fluctuations in the wake, which are closely related to far-field noise radiation.
