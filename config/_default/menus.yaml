@@ -17,7 +17,7 @@ main:
     url: experience/
     weight: 13
   - name: Gallery
-    url: experience/
+    url: /#Gallery
     weight: 20
   # - name: Projects
   #   url: projects/
