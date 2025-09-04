@@ -3,7 +3,7 @@
 title: Hongyin Bao
 
 # Name pronunciation (optional)
-#name_pronunciation: Hongyin Bao
+name_pronunciation: Hongyin Bao
 
 # Full name (for SEO)
 first_name: Hongyin
