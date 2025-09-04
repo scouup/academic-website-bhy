@@ -1,15 +1,19 @@
 ---
-title: "Serrations"
+title: "On the optimal twist of a hexagonal cylinder"
 authors:
 - admin
 - Lian Gan
+- Peiran Jiang
+- Yicong Liu
 - Yu Liu
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: "2025-02-01T00:00:00Z"
-doi: "https://doi.org/10.1063/5.0232376"
+- "Equal contribution"
+- "Equal contribution"
+date: "2025-01-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-22T00:00:00Z"
@@ -24,7 +28,9 @@ publication: "*Journal of Fluid Mechanics* **36**(10)"
 publication_short: "Journal of Fluid Mechanics (Under Review)"
 
 
-abstract: This paper numerically investigates the influences of amplitude and wavelength of sinusoidal wavy square cylinders on aerodynamic performance and noise reduction by large eddy simulation along with the Ffowcs Williams–Hawkings equation. The results show that the mean drag, lift fluctuation, and far-field noise of wavy cylinders are all reduced compared to the straight counterpart. The far-field noise of wavy cylinders varies monotonically with amplitude in a specific range but not with wavelength. The case with the largest amplitude demonstrates a significant tonal noise reduction of 47 dB/Hz, while a tonal noise reduction of 23 dB/Hz is observed for the case with the largest wavelength. To explore the mechanisms of noise reduction, the characteristics of a flow field are analyzed. It is found that wavy cylinders attenuate the transverse oscillation of a shear layer and produce more three-dimensional coherent structures in the wake. The wake region is significantly extended due to the delayed vortex shedding, and the mutual interaction between shear layers is remarkably weakened along the entire span. The spanwise coherence is attenuated in a similar way. These lead to the suppression of wall pressure fluctuations and turbulence fluctuations in the wake, which are closely related to far-field noise radiation.
+abstract: A combined experimental and numerical investigation was conducted to examine the mechanisms of aerodynamic noise reduction for twisted hexagonal cylinders at Reynolds numbers (\(Re = 2 \times 10^{4}–10^{5}\)) and twist angles per unit span \(\gamma^* \in \mathbb{R}[0, 1/3]\). It reveals a non-monotonic dependence of noise reduction on \(\gamma^*\), optimised for \(\gamma^* = 1/6\), where a tonal noise reduction of 15 dB and a total sound reduction of 11 dB at \(Re = 2 \times 10^{4}\) were achieved. This was consistent across all Reynolds numbers tested. Additionally, dual tones were observed in the noise spectra for cases with \(1/18 \leq \gamma^* < 1/6\), leading to the identification of two distinct flow patterns (Pattern I and II) based on the number of tones in the spectrum. Large-eddy simulations were performed at \(Re = 2 \times 10^{4}\) to support the acoustic measurements. Spanwise variations in flow separation gave rise to two distinct regimes:separation (RI) and reattachment (RII). - **Pattern I** (\(1/5.4 \leq \gamma^* \leq 1/3\));
+  The spanwise variation of shear layer separation induced wavy vortex shedding, contributing to a moderate noise reduction.  - **Pattern II** (\(1/18 \leq \gamma^* \leq 1/7.2\)). Differences in vortex shedding frequencies between RI and RII regimes led to vortex dislocation, forming C- or X-type vortex structures. The \(\gamma^* = 1/6\) configuration leads to a transitional pattern between Pattern I and II, where modulation was predominantly observed in the RI regime. The superior noise reduction of \(\gamma^* = 1/6\) stems from the combined effects of frequent vortex dislocation and modulation, which reduces spanwise coherency and increases wake three-dimensionality.  
+
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
