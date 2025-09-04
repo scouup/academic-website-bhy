@@ -1,5 +1,5 @@
 ---
-title: "Numerical study on aerodynamic and aeroacoustic characteristics of sinusoidal wavy square cylinders"
+title: "On the optimal twist of a hexagonal cylinder"
 authors:
 - admin
 - Lian Gan
