@@ -24,8 +24,8 @@ publishDate: "2025-01-25T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physics of Fluid (Progressing)"
-publication_short: "Physics of Fluid (Progressing)"
+publication: "*(Progressing)"
+publication_short: "(Progressing)"
 
 
 abstract: This study employs a combined approach of numerical simulation and experimental methods to investigate the flow and noise characteristics of miniature centrifugal fans used in portable electronic devices under free inflow conditions. It compares the effects of serrated structures located at the fan inlet and the blade tips on the flow field and aerodynamic noise. The study utilizes Large Eddy Simulation to capture the flow field within the fan accurately and measures the far-field noise spectrum and directivity. By integrating the pressure fluctuations on the fan blades and upper casing walls in the frequency domain, the research reveals the distribution of dipole sound sources and uses the Q-criterion to visualize the vortex structures inside the fan. The results uncover the flow and noise characteristics of the miniature centrifugal fan and analyze the impact of the serrated structures on these properties. It was found that tonal noise is primarily caused by concentrated intake at the inlet of such miniature centrifugal fans. The contribution of the vortex tongue to noise generation is minimal and predominantly contributes to low-frequency broadband noise. The comparative analysis shows that properly designed serrated structures at the inlet can effectively suppress the generation of BPF tonal noise and that appropriately designed serrated structures at the blade tops can effectively weaken broadband noise and alter the distribution of broadband pressure fluctuations on particular fan casing walls.
