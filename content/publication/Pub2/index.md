@@ -28,8 +28,17 @@ publication: "*Journal of Fluid Mechanics* **36**(10)"
 publication_short: "Journal of Fluid Mechanics (Under Review)"
 
 
-abstract: A combined experimental and numerical investigation was conducted to examine the mechanisms of aerodynamic noise reduction for twisted hexagonal cylinders at Reynolds numbers (\(Re = 2 \times 10^{4}–10^{5}\)) and twist angles per unit span \(\gamma^* \in \mathbb{R}[0, 1/3]\). It reveals a non-monotonic dependence of noise reduction on \(\gamma^*\), optimised for \(\gamma^* = 1/6\), where a tonal noise reduction of 15 dB and a total sound reduction of 11 dB at \(Re = 2 \times 10^{4}\) were achieved. This was consistent across all Reynolds numbers tested. Additionally, dual tones were observed in the noise spectra for cases with \(1/18 \leq \gamma^* < 1/6\), leading to the identification of two distinct flow patterns (Pattern I and II) based on the number of tones in the spectrum. Large-eddy simulations were performed at \(Re = 2 \times 10^{4}\) to support the acoustic measurements. Spanwise variations in flow separation gave rise to two distinct regimes:separation (RI) and reattachment (RII). - **Pattern I** (\(1/5.4 \leq \gamma^* \leq 1/3\));
-  The spanwise variation of shear layer separation induced wavy vortex shedding, contributing to a moderate noise reduction.  - **Pattern II** (\(1/18 \leq \gamma^* \leq 1/7.2\)). Differences in vortex shedding frequencies between RI and RII regimes led to vortex dislocation, forming C- or X-type vortex structures. The \(\gamma^* = 1/6\) configuration leads to a transitional pattern between Pattern I and II, where modulation was predominantly observed in the RI regime. The superior noise reduction of \(\gamma^* = 1/6\) stems from the combined effects of frequent vortex dislocation and modulation, which reduces spanwise coherency and increases wake three-dimensionality.  
+abstract: |
+  A combined experimental and numerical investigation was conducted to examine the mechanisms of aerodynamic noise reduction for twisted hexagonal cylinders at Reynolds numbers (Re = 2 × 10^4–10^5) and twist angles per unit span γ* ∈ [0, 1/3]. It reveals a non-monotonic dependence of noise reduction on γ*, optimised for γ* = 1/6, where a tonal noise reduction of 15 dB and a total sound reduction of 11 dB at Re = 2 × 10^4 were achieved. This was consistent across all Reynolds numbers tested.
+
+  Additionally, dual tones were observed in the noise spectra for cases with 1/18 ≤ γ* < 1/6, leading to the identification of two distinct flow patterns (Pattern I and II) based on the number of tones in the spectrum. Large-eddy simulations were performed at Re = 2 × 10^4 to support the acoustic measurements. Spanwise variations in flow separation gave rise to two distinct regimes: separation (RI) and reattachment (RII).
+
+  Pattern I (1/5.4 ≤ γ* ≤ 1/3): The spanwise variation of shear layer separation induced wavy vortex shedding, contributing to a moderate noise reduction.  
+
+  Pattern II (1/18 ≤ γ* ≤ 1/7.2): Differences in vortex shedding frequencies between RI and RII regimes led to vortex dislocation, forming C- or X-type vortex structures.  
+
+  The γ* = 1/6 configuration leads to a transitional pattern between Pattern I and II, where modulation was predominantly observed in the RI regime. The superior noise reduction of γ* = 1/6 stems from the combined effects of frequent vortex dislocation and modulation, which reduces spanwise coherency and increases wake three-dimensionality.
+
 
 
 # # Summary. An optional shortened abstract.
