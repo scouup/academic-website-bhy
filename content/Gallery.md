@@ -1,23 +1,25 @@
 ---
-title: 'Projects'
-date: 2024-05-19
-type: landing
-
-design:
-  # Section spacing
-  spacing: '5rem'
-
-# Page sections
-sections:
-  - block: collection
-    content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+title: "Gallery"
+date: 2025-09-05
+type: page
 ---
+
+## Gallery
+
+Here are some of my works and photos:
+
+---
+
+**Figure 1.** Flow visualization of a twisted prism.  
+![Flow over twisted prism](uploads/prism.jpg)
+
+---
+
+**Figure 2.** Vortex shedding from a cylinder.  
+![Vortex shedding](uploads/cylinder.jpg)
+
+---
+
+**Figure 3.** Experimental setup for boundary layer measurement.  
+![Boundary layer setup](uploads/setup.jpg)
+
