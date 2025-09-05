@@ -1,10 +1,10 @@
 ---
-title: "Serration"
+title: "Effect of Serrated Structures on Unsteady Flow and Noise Reduction in a Miniature Centrifugal Fan"
 authors:
-- admin
-- Lian Gan
 - Peiran Jiang
-- Yicong Liu
+- admin
+- Han Chen
+- Hao Cheng
 - Yu Liu
 author_notes:
 - "Equal contribution"
@@ -24,11 +24,11 @@ publishDate: "2025-01-25T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Fluid Mechanics* **36**(10)"
-publication_short: "Journal of Fluid Mechanics (Under Review)"
+publication: "*Physics of Fluid (Progressing)"
+publication_short: "Physics of Fluid (Progressing)"
 
 
-abstract: This paper numerically investigates the influences of amplitude and wavelength of sinusoidal wavy square cylinders on aerodynamic performance and noise reduction by large eddy simulation along with the Ffowcs Williams–Hawkings equation. The results show that the mean drag, lift fluctuation, and far-field noise of wavy cylinders are all reduced compared to the straight counterpart. The far-field noise of wavy cylinders varies monotonically with amplitude in a specific range but not with wavelength. The case with the largest amplitude demonstrates a significant tonal noise reduction of 47 dB/Hz, while a tonal noise reduction of 23 dB/Hz is observed for the case with the largest wavelength. To explore the mechanisms of noise reduction, the characteristics of a flow field are analyzed. It is found that wavy cylinders attenuate the transverse oscillation of a shear layer and produce more three-dimensional coherent structures in the wake. The wake region is significantly extended due to the delayed vortex shedding, and the mutual interaction between shear layers is remarkably weakened along the entire span. The spanwise coherence is attenuated in a similar way. These lead to the suppression of wall pressure fluctuations and turbulence fluctuations in the wake, which are closely related to far-field noise radiation.
+abstract: This study employs a combined approach of numerical simulation and experimental methods to investigate the flow and noise characteristics of miniature centrifugal fans used in portable electronic devices under free inflow conditions. It compares the effects of serrated structures located at the fan inlet and the blade tips on the flow field and aerodynamic noise. The study utilizes Large Eddy Simulation to capture the flow field within the fan accurately and measures the far-field noise spectrum and directivity. By integrating the pressure fluctuations on the fan blades and upper casing walls in the frequency domain, the research reveals the distribution of dipole sound sources and uses the Q-criterion to visualize the vortex structures inside the fan. The results uncover the flow and noise characteristics of the miniature centrifugal fan and analyze the impact of the serrated structures on these properties. It was found that tonal noise is primarily caused by concentrated intake at the inlet of such miniature centrifugal fans. The contribution of the vortex tongue to noise generation is minimal and predominantly contributes to low-frequency broadband noise. The comparative analysis shows that properly designed serrated structures at the inlet can effectively suppress the generation of BPF tonal noise and that appropriately designed serrated structures at the blade tops can effectively weaken broadband noise and alter the distribution of broadband pressure fluctuations on particular fan casing walls.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -52,7 +52,7 @@ abstract: This paper numerically investigates the influences of amplitude and wa
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "Turbulent kinetic energy"
+  caption: "Q-Criterion"
   focal_point: ""
   preview_only: false
 
